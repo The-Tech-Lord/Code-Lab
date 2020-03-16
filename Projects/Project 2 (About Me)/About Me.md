@@ -13,12 +13,14 @@ I like Programming, Electronics, IT, and all that techy stuff. I'm not too socia
 * **Skills**:
   * C Programming (Still Learning)
   * Soldering
+  * Basic Linux Commands
 
 * **Education**: Brockton High School
 
 ### More Stuff About Me
 
 * **Culture**: Asian (Begali)
+* **Religion**: N/A
 * **Favorite Websites**: YouTube, GeeksforGeeks, Tutorialspoint, Discord, Reddit, Tumblr, Google+ (R.I.P)
 * **Music**: Metal/Rock, Electronic, Nightcore
 * **Stuff I've Made**:
@@ -27,3 +29,5 @@ I like Programming, Electronics, IT, and all that techy stuff. I'm not too socia
   * A Minecraft Translator for Discord Commands
     * [Video: V.1](https://photos.app.goo.gl/mxWW5ucxA4KYefnD7)
     * [Video: V.2](https://photos.app.goo.gl/ZBpD2UpUKaWZuHmT8)
+
+Question: Linux or Windows? What do you prefer?
