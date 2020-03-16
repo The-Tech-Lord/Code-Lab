@@ -19,8 +19,11 @@ I like Programming, Electronics, IT, and all that techy stuff. I'm not too socia
 ### More Stuff About Me
 
 * **Culture**: Asian (Begali)
-* **Favorite Websites**: [YouTube](https://www.youtube.com), [GeeksforGeeks](https://geeksforgeeks.org), [Tutorialspoint](https://www.tutorialspoint.com), [Discord](https://www.discord.com)
+* **Favorite Websites**: YouTube, GeeksforGeeks, Tutorialspoint, Discord, Reddit, Tumblr, Google+ (R.I.P)
 * **Music**: Metal/Rock, Electronic, Nightcore
 * **Stuff I've Made**:
   * An electronic circuit that emmits lights for electronics class
+    * [Video If you want to see](https://photos.app.goo.gl/S79nzoMdPJ4EVgb36)
   * A Minecraft Translator for Discord Commands
+    * [Version 1](https://photos.app.goo.gl/mxWW5ucxA4KYefnD7)
+    * [Version 2](https://photos.app.goo.gl/ZBpD2UpUKaWZuHmT8)
