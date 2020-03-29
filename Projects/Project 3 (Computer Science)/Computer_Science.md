@@ -52,7 +52,7 @@ class HelloWorld {
 
 ### C++
 
-> 
+> C++ is a high-level, general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with Classes".
 
 ![C++ Image](./c-plus-plus.png)
 
@@ -83,6 +83,8 @@ int main() {
 ```
 
 ### C# (a.k.a C Sharp)
+
+> C# is a general-purpose, multi-paradigm programming language encompassing strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.
 
 ```csharp
 using System;
