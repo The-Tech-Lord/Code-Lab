@@ -52,9 +52,9 @@ class HelloWorld {
 
 ### C++
 
-> C++ is a high-level, general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with Classes".
-
 ![C++ Image](./c-plus-plus.png)
+
+> C++ is a high-level, general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with Classes".
 
 ```c++
 #include <iostream>
@@ -70,7 +70,20 @@ int main() {
 
 ### Swift
 
+![Swift Image](./swift.png)
+
+> Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, iPadOS, macOS, watchOS, tvOS, Linux, and z/OS. Swift is designed to work with Apple's Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products.
+
+```swift
+import Swift
+print("Hello world!")
+```
+
 ### C
+
+![C Image](./c-programming.png)
+
+> C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, while a static type system prevents unintended operations.
 
 ```c
 #include <stdio.h>
@@ -83,6 +96,8 @@ int main() {
 ```
 
 ### C# (a.k.a C Sharp)
+
+![C# Image](./c-sharp.png)
 
 > C# is a general-purpose, multi-paradigm programming language encompassing strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.
 
@@ -105,7 +120,12 @@ namespace ConsoleApp1 {
 
 ### Rust
 
+![Rust Image](./rust.png)
+
+> Rust is a multi-paradigm programming language focused on performance and safety, especially safe concurrency. Rust is syntactically similar to C++, but provides memory safety without using garbage collection.
+
 ```rust
+
 //A Hello World program in Rust
 fn main() {
     println("Hello world!");
