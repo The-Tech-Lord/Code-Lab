@@ -149,6 +149,8 @@ int main() {
 
 > C# is a general-purpose, multi-paradigm programming language encompassing strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.
 
+C# is a programming lnaguage developed by Microsoft and is mainly used for desktop applications and Microsoft uses it for their own products as well, for example the Windows Operating system.
+
 ```csharp
 using System;
 using System.Collections.Generic;
@@ -174,8 +176,9 @@ namespace ConsoleApp1 {
 
 > Rust is a multi-paradigm programming language focused on performance and safety, especially safe concurrency. Rust is syntactically similar to C++, but provides memory safety without using garbage collection.
 
-```rust
+Rust is an open-source language that focuses on speed and safety. As said in the above quote, the syntax is rather similar to the syntax of C++.
 
+```rust
 //A Hello World program in Rust
 fn main() {
     println("Hello world!");
@@ -184,4 +187,4 @@ fn main() {
 
 # Future Development
 
-I would like to add more descriptions of other languages that are pretty common
+I would like to add more descriptions of other languages that are pretty common. Add some video tutorials on how to do basic programming. In the future, I'd like to see a language that is as easy as Python and as versitiale as Java.
