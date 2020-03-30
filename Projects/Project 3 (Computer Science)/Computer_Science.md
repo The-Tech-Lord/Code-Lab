@@ -1,3 +1,9 @@
+# About
+
+Computer Science is the study of processes that interact with data that can be represented as data in the form of programs.
+
+***
+
 # Basic Terminology
 
 Source: [programmingforbeginnersbook.com](https://www.programmingforbeginnersbook.com/blog/expand_your_programming_vocabulary/)
@@ -22,6 +28,9 @@ Source: [programmingforbeginnersbook.com](https://www.programmingforbeginnersboo
     1. The number `5` is an `Integer`
     1. The number `5.7298463710` is a float
     1. A double is basically the same as a float but it can hold twice as many decimals
+* **Write**: To send output data to an external destination, usually a file
+
+***
 
 ## Common Programming Languages
 
@@ -65,6 +74,8 @@ class HelloWorld {
 
 > C++ is a high-level, general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with Classes".
 
+C++ is an improved version of the C language and has alot more stuff to it than the C language which is relatively small.
+
 ```c++
 #include <iostream>
 using namespace std;
@@ -83,7 +94,15 @@ int main() {
 
 > JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
 
-JavaScript is what's called an asyncronous language which is a means of parrallel programming (Able to do calculations simultaneously)
+**Apearance**: December 4, 1995
+
+JavaScript is what's called an asyncronous language which is a means of parrallel programming (Able to do calculations simultaneously) in which a unit will run separetly from the main thread and will notify when its completed, failed, or about its progess.
+
+```javascript
+<script>
+    console.out("Hello world!");
+</script>
+```
 
 ***
 
@@ -92,6 +111,10 @@ JavaScript is what's called an asyncronous language which is a means of parralle
 ![Swift Image](./swift.png)
 
 > Swift is a general-purpose, multi-paradigm, compiled programming language developed by Apple Inc. for iOS, iPadOS, macOS, watchOS, tvOS, Linux, and z/OS. Swift is designed to work with Apple's Cocoa and Cocoa Touch frameworks and the large body of existing Objective-C code written for Apple products.
+
+**Appearance**: June 2, 2014
+
+Swift as said above is used to make programs for Apple products, this include MacBooks, iMacs', iPhones', anything Apple, was probably written in Swift.
 
 ```swift
 import Swift
@@ -158,3 +181,7 @@ fn main() {
     println("Hello world!");
 }
 ```
+
+# Future Development
+
+I would like to add more descriptions of other languages that are pretty common
