@@ -31,12 +31,14 @@ Source: [programmingforbeginnersbook.com](https://www.programmingforbeginnersboo
 
 > Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
 
-Python is a high-level language that is fairly easy for beginners that are starting to get into programming. If you are an experienced programmer, it will take you about 3-4 weeks to learn Python, if you have no experience at all, it will take about 12 weeks to learn. Occording to daxx.com, Python developers on average make about $120k per year which is some serious dough!
+Python is a high-level language that is fairly easy for beginners that are starting to get into programming.
 
 ```python
 #A Hello World program in Python
 print("Hello world!")
 ```
+
+***
 
 ### Java
 
@@ -55,6 +57,8 @@ class HelloWorld {
 }
 ```
 
+***
+
 ### C++
 
 ![C++ Image](./c-plus-plus.png)
@@ -71,7 +75,11 @@ int main() {
 }
 ```
 
+***
+
 ### JavaScript
+
+***
 
 ### Swift
 
@@ -83,6 +91,8 @@ int main() {
 import Swift
 print("Hello world!")
 ```
+
+***
 
 ### C
 
@@ -99,6 +109,8 @@ int main() {
     printf("Hello world!");
 }
 ```
+
+***
 
 ### C# (a.k.a C Sharp)
 
@@ -122,6 +134,8 @@ namespace ConsoleApp1 {
     }
 }
 ```
+
+***
 
 ### Rust
 
