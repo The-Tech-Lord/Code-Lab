@@ -40,12 +40,16 @@ Source: [programmingforbeginnersbook.com](https://www.programmingforbeginnersboo
 
 > Python is an interpreted, high-level, general-purpose programming language. Created by Guido van Rossum and first released in 1991, Python's design philosophy emphasizes code readability with its notable use of significant whitespace.
 
+**Appearance**: 1990
+
 Python is a high-level language that is fairly easy for beginners that are starting to get into programming.
 
 ```python
 #A Hello World program in Python
 print("Hello world!")
 ```
+
+Python programmer make on average ~$118,844 per year according to indeed.com
 
 ***
 
@@ -54,6 +58,8 @@ print("Hello world!")
 ![Java](./java1.png)
 
 > Java is a general-purpose programming language that is class-based, object-oriented, and designed to have as few implementation dependencies as possible.
+
+**Appearance**: May 23, 1995
 
 Java is a high-level language that is object oriented and is able to work on all operating systems, could probably even work on your toaster!
 
@@ -66,6 +72,8 @@ class HelloWorld {
 }
 ```
 
+Java programmers make on average ~$104,557 per year according to indeed.com including a \$5,000 cash bonus.
+
 ***
 
 ### C++
@@ -73,6 +81,8 @@ class HelloWorld {
 ![C++ Image](./c-plus-plus.png)
 
 > C++ is a high-level, general-purpose programming language created by Bjarne Stroustrup as an extension of the C programming language, or "C with Classes".
+
+**Appearance**: 1985
 
 C++ is an improved version of the C language and has alot more stuff to it than the C language which is relatively small.
 
@@ -85,6 +95,8 @@ int main() {
     cout << "Hello world!" << endl;
 }
 ```
+
+C++ programmers make on average ~$105,532 per year according to indeed.com
 
 ***
 
@@ -104,6 +116,8 @@ JavaScript is what's called an asyncronous language which is a means of parralle
 </script>
 ```
 
+JavaScript programmers make on average ~$117,744 per year according to indeed.com
+
 ***
 
 ### Swift
@@ -121,6 +135,8 @@ import Swift
 print("Hello world!")
 ```
 
+Swift developers usually make on average ~$92,372 per year according to indeed.com
+
 ***
 
 ### C
@@ -128,6 +144,8 @@ print("Hello world!")
 ![C Image](./c-programming.png)
 
 > C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, while a static type system prevents unintended operations.
+
+**Appearance**: 1972
 
 The C programming language is a low-level language which means the code you write map closely to processor instructions. It is also a part of what many call, the "C Family" which consists of C, C++ and C#. Many programming languages haven't been able to really 'replace' the C programming language and at the same time, they're based of it!
 
@@ -141,6 +159,8 @@ int main() {
 }
 ```
 
+C programmers usually make on average ~$103,770 per year according to indeed.com
+
 ***
 
 ### C# (a.k.a C Sharp)
@@ -148,6 +168,8 @@ int main() {
 ![C# Image](./c-sharp.png)
 
 > C# is a general-purpose, multi-paradigm programming language encompassing strong typing, lexically scoped, imperative, declarative, functional, generic, object-oriented, and component-oriented programming disciplines.
+
+**Apprearnace**: 2000
 
 C# is a programming lnaguage developed by Microsoft and is mainly used for desktop applications and Microsoft uses it for their own products as well, for example the Windows Operating system.
 
@@ -168,6 +190,8 @@ namespace ConsoleApp1 {
 }
 ```
 
+C# programmers usually make on average ~$97,000 per year as a .NET Developer according to indeed.com
+
 ***
 
 ### Rust
@@ -175,6 +199,8 @@ namespace ConsoleApp1 {
 ![Rust Image](./rust.png)
 
 > Rust is a multi-paradigm programming language focused on performance and safety, especially safe concurrency. Rust is syntactically similar to C++, but provides memory safety without using garbage collection.
+
+**Appearance**: July 7, 2010
 
 Rust is an open-source language that focuses on speed and safety. As said in the above quote, the syntax is rather similar to the syntax of C++.
 
@@ -184,6 +210,8 @@ fn main() {
     println("Hello world!");
 }
 ```
+
+Rust programmers usually make on average ~$144,270 per year according to hired.com
 
 # Future Development
 
