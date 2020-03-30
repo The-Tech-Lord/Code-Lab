@@ -2,13 +2,14 @@
 
 Source: [programmingforbeginnersbook.com](https://www.programmingforbeginnersbook.com/blog/expand_your_programming_vocabulary/)
 
+* **Variable**: A container that can hold a single value for later use `int x = 78;`
 * **Algorithm**: Step-and-step instructions you give a computer to execute
 * **Argument**: A value that is passed between programs, subroutines, and/or functions.
 * **Array**: A sequence of values: `int arr = { 1, 2, 3,... };`
 * **Assignment**: To put values into variables: `int x = 5;`
 * **Bug**: A misatke in a program
 * **Call**: To run a function and the code inside it
-* **Comment**: Code that is ignored by the compiler and is used for documenting code for humans which is very handy until that one guy doesn't document their code and you're just sitting there trying to figure out what `sldkfj_sdfy_bin` does for 7 hours straight.
+* **Comment**: Code that is ignored by the compiler and is used for documenting code for humans which is very handy until that one guy doesn't document their code and you're just sitting there trying to figure out what `sdlki_sy5_bin` does for 7 hours straight.
 * **Class**: A type that a programmer can define and create objects of that class
 * **Object**: A value created from a class. If you were to represent your family in code, you'd name a class called something like `FamilyMember`, and then make objects of that class – one object for each person in your family. Objects usually contain other values inside instance variables, and have methods attached to them, for example each `FamilyMember` object might have a `name` instance variable. Objects combine the concept of variables and functions into a single value. Also known as an instance.
 * **Object-Oriented**: Designed using objects
@@ -17,6 +18,10 @@ Source: [programmingforbeginnersbook.com](https://www.programmingforbeginnersboo
 * **Return Value**: The value that results from the completion of a function call
 * **Run**: To perform the instructions written in your program, usually as an executable
 * **Syntax**: The grammar of the language
+* **Type**: The kind oor category of a value (Examples below)
+    1. The number `5` is an `Integer`
+    1. The number `5.7298463710` is a float
+    1. A double is basically the same as a float but it can hold twice as many decimals
 
 ## Common Programming Languages
 
