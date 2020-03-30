@@ -79,6 +79,12 @@ int main() {
 
 ### JavaScript
 
+![JavaScript Image](./javascript.png)
+
+> JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions.
+
+JavaScript is what's called an asyncronous language which is a means of parrallel programming (Able to do calculations simultaneously)
+
 ***
 
 ### Swift
@@ -99,6 +105,8 @@ print("Hello world!")
 ![C Image](./c-programming.png)
 
 > C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, while a static type system prevents unintended operations.
+
+The C programming language is a low-level language which means the code you write map closely to processor instructions. It is also a part of what many call, the "C Family" which consists of C, C++ and C#. Many programming languages haven't been able to really 'replace' the C programming language and at the same time, they're based of it!
 
 ```c
 #include <stdio.h>
