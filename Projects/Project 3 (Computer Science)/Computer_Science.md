@@ -2,9 +2,11 @@
 
 Computer Science is the study of processes that interact with data that can be represented as data in the form of programs.
 
+[A Brief History of Computer Science](https://www.worldsciencefestival.com/infographics/a_history_of_computer_science/)
+
 ***
 
-# Basic Terminology
+## Basic Terminology
 
 Source: [programmingforbeginnersbook.com](https://www.programmingforbeginnersbook.com/blog/expand_your_programming_vocabulary/)
 
@@ -32,7 +34,7 @@ Source: [programmingforbeginnersbook.com](https://www.programmingforbeginnersboo
 
 ***
 
-## Common Programming Languages
+## Popular & Common Programming Languages
 
 ### Python
 
@@ -132,6 +134,7 @@ Swift as said above is used to make programs for Apple products, this include Ma
 
 ```swift
 import Swift
+//A Hello World program in Swift
 print("Hello world!")
 ```
 
